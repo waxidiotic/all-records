@@ -8,7 +8,7 @@ function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Tailwindcss Emotion Example</title>
+        <title>All Records</title>
       </Head>
       <Global
         //keyframes + ring and shadow classes variables  ... to global styles
